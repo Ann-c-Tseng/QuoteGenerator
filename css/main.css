@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: helvetica, sans-serif;
+    font-size: 16px;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+#quote {
+    font-weight: 400;
+}
+
+#author {
+    font-weight: 300;
+}
+
+#generateBtn {
+    font-weight: 900;
+}
+
+#quoteCard {
+    background-color: white;
+    padding: 5rem;
+}
