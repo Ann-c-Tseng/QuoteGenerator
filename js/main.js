@@ -1,4 +1,4 @@
-API_URL = "http://safetybelt.pythonanywhere.com/quotes/random"
+API_URL = "https://safetybelt.pythonanywhere.com/quotes/random"
 
 var count = 0;
 
